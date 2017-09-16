@@ -1,0 +1,27 @@
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\bin\Debug\Pando.exe.config
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\bin\Debug\Pando.exe
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\bin\Debug\Pando.pdb
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.csprojResolveAssemblyReference.cache
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.Form1.resources
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.Properties.Resources.resources
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.csproj.GenerateResource.Cache
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.exe
+c:\users\roxana\documents\visual studio 2013\Projects\Pando\Pando\obj\Debug\Pando.pdb
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\bin\Debug\Pando.exe.config
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.exe
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.pdb
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\bin\Debug\Pando.exe
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\bin\Debug\Pando.pdb
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.csprojResolveAssemblyReference.cache
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.Form1.resources
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.Properties.Resources.resources
+C:\Users\necul\Desktop\Final\Pando\Pando\Pando\obj\Debug\Pando.csproj.GenerateResource.Cache
+D:\Downloads\Pando\Pando\Pando\Pando\bin\Debug\Pando.exe.config
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.exe
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.pdb
+D:\Downloads\Pando\Pando\Pando\Pando\bin\Debug\Pando.exe
+D:\Downloads\Pando\Pando\Pando\Pando\bin\Debug\Pando.pdb
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.csprojResolveAssemblyReference.cache
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.Form1.resources
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.Properties.Resources.resources
+D:\Downloads\Pando\Pando\Pando\Pando\obj\Debug\Pando.csproj.GenerateResource.Cache
